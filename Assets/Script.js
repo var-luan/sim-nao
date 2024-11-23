@@ -1,6 +1,9 @@
 const tela = document.getElementById('tela0');
 const img_max = 20;
 const imgURL = './Assets/img/rb_27066.png';
+const music1 = document.getElementById
+('music');
+
 
 function animation(){
 
