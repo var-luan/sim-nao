@@ -30,6 +30,8 @@ function animation(){
 function music_tocar(){
   music1.play();
 }
+music_tocar();
+
 setInterval(animation, 1000);
 
 animation();
