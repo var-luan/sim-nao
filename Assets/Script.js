@@ -27,7 +27,9 @@ function animation(){
 
   }
 }
-
+function music_tocar(){
+  music1.play();
+}
 setInterval(animation, 1000);
 
 animation();
